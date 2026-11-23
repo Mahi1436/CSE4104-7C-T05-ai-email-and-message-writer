@@ -213,11 +213,49 @@ AI-Email-and-Message-Writer/
 │   ├── package.json
 │   └── .env.example
 │
+├── diagrams/
+│   ├── CSE4104-7C-T05_AIWorkflow.pdf
+│   ├── CSE4104-7C-T05_ActivityDiagram.pdf
+│   ├── CSE4104-7C-T05_ArchitectureDiagram.pdf
+│   ├── CSE4104-7C-T05_ERDiagram.pdf
+│   └── CSE4104-7C-T05_UseCaseDiagram.pdf
+│
+├── documents/
+│   ├── CSE4104-7C-T05_Proposal.pdf
+│   ├── CSE4104-7C-T05_SRS.pdf
+│   └── CSE4104-7C-T05_SystemDesign.pdf
+│
 ├── .gitignore
 └── README.md
 ```
 
 **Note:** This is the proposed repository structure. Additional files and folders may be added during development.
+
+---
+
+## 7. Project Diagrams
+
+All important system diagrams are available in the `diagrams/` folder.
+
+| Diagram | PDF |
+|---|---|
+| AI Workflow Diagram | [View PDF](diagrams/CSE4104-7C-T05_AIWorkflow.pdf) |
+| Activity Diagram | [View PDF](diagrams/CSE4104-7C-T05_ActivityDiagram.pdf) |
+| Architecture Diagram | [View PDF](diagrams/CSE4104-7C-T05_ArchitectureDiagram.pdf) |
+| ER Diagram | [View PDF](diagrams/CSE4104-7C-T05_ERDiagram.pdf) |
+| Use Case Diagram | [View PDF](diagrams/CSE4104-7C-T05_UseCaseDiagram.pdf) |
+
+---
+
+## 8. Project Documents
+
+All official project documents are available in the `documents/` folder.
+
+| Document | PDF |
+|---|---|
+| Project Proposal | [View PDF](documents/CSE4104-7C-T05_Proposal.pdf) |
+| Software Requirements Specification (SRS) | [View PDF](documents/CSE4104-7C-T05_SRS.pdf) |
+| System Design Document | [View PDF](documents/CSE4104-7C-T05_SystemDesign.pdf) |
 
 ---
 
