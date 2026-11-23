@@ -237,13 +237,13 @@ AI-Email-and-Message-Writer/
 
 All important system diagrams are available in the `diagrams/` folder.
 
-| Diagram | PDF |
+| Diagram | Document |
 |---|---|
-| AI Workflow Diagram | [View PDF](diagrams/CSE4104-7C-T05_AIWorkflow.pdf) |
-| Activity Diagram | [View PDF](diagrams/CSE4104-7C-T05_ActivityDiagram.pdf) |
-| Architecture Diagram | [View PDF](diagrams/CSE4104-7C-T05_ArchitectureDiagram.pdf) |
-| ER Diagram | [View PDF](diagrams/CSE4104-7C-T05_ERDiagram.pdf) |
-| Use Case Diagram | [View PDF](diagrams/CSE4104-7C-T05_UseCaseDiagram.pdf) |
+| [AI Workflow Diagram](diagrams/CSE4104-7C-T05_AIWorkflow.pdf) | PDF |
+| [Activity Diagram](diagrams/CSE4104-7C-T05_ActivityDiagram.pdf) | PDF |
+| [Architecture Diagram](diagrams/CSE4104-7C-T05_ArchitectureDiagram.pdf) | PDF |
+| [ER Diagram](diagrams/CSE4104-7C-T05_ERDiagram.pdf) | PDF |
+| [Use Case Diagram](diagrams/CSE4104-7C-T05_UseCaseDiagram.pdf) | PDF |
 
 ---
 
@@ -251,11 +251,11 @@ All important system diagrams are available in the `diagrams/` folder.
 
 All official project documents are available in the `documents/` folder.
 
-| Document | PDF |
+| Document | File Format |
 |---|---|
-| Project Proposal | [View PDF](documents/CSE4104-7C-T05_Proposal.pdf) |
-| Software Requirements Specification (SRS) | [View PDF](documents/CSE4104-7C-T05_SRS.pdf) |
-| System Design Document | [View PDF](documents/CSE4104-7C-T05_SystemDesign.pdf) |
+| [Project Proposal](documents/CSE4104-7C-T05_Proposal.pdf) | PDF |
+| [Software Requirements Specification (SRS)](documents/CSE4104-7C-T05_SRS.pdf) | PDF |
+| [System Design Document](documents/CSE4104-7C-T05_SystemDesign.pdf) | PDF |
 
 ---
 
