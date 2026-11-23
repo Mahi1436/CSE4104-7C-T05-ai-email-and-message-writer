@@ -255,7 +255,7 @@ All official project documents are available in the `documents/` folder.
 |---|---|
 | [Project Proposal](documents/CSE4104-7C-T05_Proposal.pdf) | PDF |
 | [Software Requirements Specification (SRS)](documents/CSE4104-7C-T05_SRS.pdf) | PDF |
-| [System Design Document](documents/CSE4104-7C-T05_SystemDesign.pdf) | PDF |
+| [System Design Document](documents/CSE4104-7C-T05_SystemDesign%20.pdf) | PDF |
 
 ---
 
